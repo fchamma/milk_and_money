@@ -25,6 +25,5 @@ plus premium and fees. Besides, he also must have in mind that put options with 
 strike simply won't be affordable if the current commodity price is considerably below that
 level.
 
-#### for more info read the pdf report
-
-#### Project done by Felipe Chamma and Felipe Formenti as part of the Linear Regression course at USF
+##### For more info read the full pdf report
+##### Project done by Felipe Chamma and Felipe Formenti as part of the Linear Regression course at USF
